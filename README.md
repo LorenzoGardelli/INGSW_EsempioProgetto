@@ -1,4 +1,4 @@
-# Assignment 2    Lorenzo Gardelli 907502
+# Progetto esame Sistema di voto    Lorenzo Gardelli 907502
 
 Il seguente progetto, nato inizialmente come esercizio per l'assignment 2, ora è stato aggiornato e contiente tutta la relazione di progetto prevista per il laboratorio del corso di Ingegneria del Software, AA 2021/2022.
 
