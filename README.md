@@ -1,6 +1,8 @@
 # Assignment 2    Lorenzo Gardelli 907502
 
-Il seguente progetto Maven è una bozza preliminare del progetto d'esame 2021/2022 basato su un sistema di voto.
-I file di progetto sono direttamente collegati all'IDE Eclipse sulla mia macchina, e pertanto potrebbero essere aggiornati o modificati per eseguire test o esercizi suggeriti a lezione. La struttura generale rimarrà comunque quella originale per permettere la corretta valutazione dell'assignment 2.
+Il seguente progetto, nato inizialmente come esercizio per l'assignment 2, ora è stato aggiornato e contiente tutta la relazione di progetto prevista per il laboratorio del corso di Ingegneria del Software, AA 2021/2022.
 
-Come suggerito dal testo dell'assignment, i prototipi di classi non sono per forza riconducibili pienamente al progetto d'esame, ma sono a scopo indicativo. Il progetto finale potrà usilizzare classi differenti se durante la progettazione lo si riterrà opportuno.
+All'interno della pagina è possibile reperire:
+- La relazione completa in pdf ("Relazione di progetto _ Lorenzo Gardelli.pdf") she segue lo schema di relazione fornito come esempio.
+- La cartella "Progetto_SistemaDiVoto" contenente alcuni file di classi o di schermate JavaFX prese come esempio nella relazione per test o vincoli.
+- La cartella "Immagini" contenente gli screenshot originali di tutte le immagini e i diagrammi presenti nella relazione, che risultano più leggibili.
