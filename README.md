@@ -3,7 +3,7 @@
 Il seguente repository, nato inizialmente come esercizio per l'assignment 2, ora è stato aggiornato e contiente tutta la relazione di progetto prevista per il laboratorio del corso di Ingegneria del Software.
 
 All'interno della pagina è possibile reperire:
-- La relazione completa in pdf ("Relazione di progetto _ Lorenzo Gardelli.pdf") che è stata anche inviata per la valutazione tramite apposito upload.
+- La relazione completa in pdf ("Relazione di progetto_Lorenzo Gardelli.pdf") che è stata anche inviata per la valutazione tramite apposito upload.
 - La cartella "Classi_SistemaDiVoto" contenente alcuni file di classi, tra cui quelle prese come esempio nella relazione per test o vincoli.
 - La cartella GUI, contenente i file JavaFX delle varie schermate dell'applicazione, inclusa la schermata contenente il controllo input utente.
 - La cartella JUnit, contenente la classe utilizzata per eseguire i test case sulla classe "LoginTecnicoController".
