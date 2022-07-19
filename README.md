@@ -10,3 +10,5 @@ All'interno della pagina è possibile reperire:
 - La cartella "Immagini" contenente gli screenshot originali di tutte le immagini e i diagrammi presenti nella relazione, che risultano più leggibili.
 
 Alcune cartelle aggiuntive sono rimaste dalla creazione del progetto attraverso Maven, come richiesto dall'Assignment 2.
+
+N.B. Si consiglia di non leggere la relazione in pdf dal sito ma di scaricarla o di consultare l'originale caricata tramite upload unimi. Nella versione caricata su Github i riferimenti e i link rapidi tra i capitoli non sono supportati
