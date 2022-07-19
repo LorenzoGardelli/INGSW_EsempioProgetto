@@ -4,7 +4,7 @@ Il seguente repository, nato inizialmente come esercizio per l'assignment 2, ora
 
 All'interno della pagina è possibile reperire:
 - La relazione completa in pdf ("RelazioneDiProgetto_LorenzoGardelli.pdf") che è stata anche inviata per la valutazione tramite apposito upload.
-- La cartella "Classi_SistemaDiVoto" contenente alcuni file di classi, tra cui quelle prese come esempio nella relazione per test o vincoli.
+- La cartella "Classi_SistemaDiVoto" contenente i file di classi visibili nel Class Diagram, tra cui quelle prese come esempio nella relazione per test o vincoli.
 - La cartella GUI, contenente i file JavaFX delle varie schermate dell'applicazione, inclusa la schermata contenente il controllo input utente.
 - La cartella JUnit, contenente la classe utilizzata per eseguire i test case sulla classe "LoginTecnicoController".
 - La cartella "Immagini" contenente gli screenshot originali di tutte le immagini e i diagrammi presenti nella relazione, che risultano più leggibili.
